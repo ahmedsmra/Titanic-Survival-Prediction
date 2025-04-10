@@ -23,7 +23,7 @@ This repository contains a Machine Learning project built by me and my friends.
 
 ## 📁 Dataset
 
-We used the classic [Titanic dataset](https://www.kaggle.com/c/titanic) from Kaggle, which contains information about passengers like age, gender, class, and survival status.
+We used the classic [Titanic dataset] from Kaggle, which contains information about passengers like age, gender, class, and survival status.
 
 ---
 
